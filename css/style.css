@@ -20,6 +20,10 @@ body {
   margin-left: 7%;
 }
 
+nav div {
+  margin-left: 70%;
+}
+
 .project-tile div {
   margin-left: 30px;
   border: 1px solid black;
@@ -49,10 +53,6 @@ nav {
   position: fixed;
   top: 0;
   width: 100%;
-}
-
-nav div {
-  margin-left: 70%;
 }
 
 .nav-link {
